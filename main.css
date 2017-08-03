@@ -1,0 +1,36 @@
+body{
+    
+    background-color: #4A5469;
+font-family: 'Tangerine', cursive;
+color:white;
+}
+
+img{
+    
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    
+}
+p{
+    font-size:250%
+}
+
+
+h1{
+    font-size: 305%;
+}
+
+
+#hi{
+    color: black;
+    background-color: blue;
+    padding: 20px;
+    margin: 0px;
+}
+
+#link{
+    font-size: 250%;
+    color: gray;
+}
+
